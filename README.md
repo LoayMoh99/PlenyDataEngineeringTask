@@ -30,6 +30,8 @@ npm run serve
 ```sh
 npm run dev
 ```
+### Note:
+ if you want to connect to your specific DB search for TODO and change the **DB connection string** 
 
 ## Author
 

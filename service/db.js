@@ -1,9 +1,9 @@
 const mongoose = require('mongoose');
+const dotenv = require('dotenv');
+dotenv.config()
 
 // TODO: change to your DB connection string here
-// For sure; the best practice is to store the connection string in an environment variable and not share it in public
-// BUT here we are storing it in a variable for simplicity
-const url = String("mongodb+srv://loaymohamed1999:c1LVvu0aBRBsgB32@cluster0.zcjszts.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0");
+const url = String(process.env.MONGODB_URL);
 async function connectToDb() {
     await mongoose.connect(url);
     console.log("Connected to db");

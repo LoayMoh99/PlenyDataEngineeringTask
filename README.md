@@ -31,7 +31,9 @@ npm run serve
 npm run dev
 ```
 ### Note:
- if you want to connect to your specific DB search for TODO and change the **DB connection string** 
+ if you want to connect to your specific DB search for TODO and change the **DB connection string** either by:
+ - generating a `.env` file and add MONGODB_URL=<your url here> [Recommended]
+ - hard copied instead of the process.env.MONGODB_URL
 
 ## Author
 

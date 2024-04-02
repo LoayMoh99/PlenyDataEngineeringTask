@@ -6,7 +6,14 @@ async function connectToDb() {
     console.log("Connected to db");
 }
 
+// close connection to the database
+async function closeDbConnection() {
+    await mongoose.connection.close();
+    console.log("Connection to db closed");
+}
+
 // export the function
 module.exports = {
     connectToDb,
+    closeDbConnection,
 };

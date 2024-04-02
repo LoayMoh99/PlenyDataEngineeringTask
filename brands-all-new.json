@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "66069ff93007b006635c0246",
+    "brandName": "Ergonomic Frozen Bacon",
+    "yearFounded": 1600,
+    "headquarters": "Gavinstead",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:31.862Z",
+    "updatedAt": "2024-04-02T01:09:31.862Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0247",
+    "brandName": "Breitenberg, Greenholt and Ledner",
+    "yearFounded": 1982,
+    "headquarters": "Fort Lenna",
+    "numberOfLocations": 1000,
+    "createdAt": "2024-04-02T01:09:32.264Z",
+    "updatedAt": "2024-04-02T01:09:32.264Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0248",
+    "brandName": "Modern Granite Fish",
+    "yearFounded": 1970,
+    "headquarters": "Kundebury",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:32.641Z",
+    "updatedAt": "2024-04-02T01:09:32.641Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0249",
+    "brandName": "Gorgeous Granite Pizza",
+    "yearFounded": 1980,
+    "headquarters": "Jonesborough",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:33.066Z",
+    "updatedAt": "2024-04-02T01:09:33.066Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024a",
+    "brandName": "Oriental Plastic Pants",
+    "yearFounded": 1970,
+    "headquarters": "Wardfort",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:33.461Z",
+    "updatedAt": "2024-04-02T01:09:33.461Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024b",
+    "brandName": "Refined Granite Towels",
+    "yearFounded": 1600,
+    "headquarters": "Lemkeland",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:33.858Z",
+    "updatedAt": "2024-04-02T01:09:33.858Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024c",
+    "brandName": "Corkery Inc",
+    "yearFounded": 1935,
+    "headquarters": "DuBuqueburgh",
+    "numberOfLocations": 9200,
+    "createdAt": "2024-04-02T01:09:34.281Z",
+    "updatedAt": "2024-04-02T01:09:34.281Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024d",
+    "brandName": "Licensed Concrete Tuna",
+    "yearFounded": 1600,
+    "headquarters": "West Mylesboro",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:34.700Z",
+    "updatedAt": "2024-04-02T01:09:34.700Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c024e",
+    "brandName": "Generic Cotton Pizza",
+    "yearFounded": 1600,
+    "headquarters": "North Ralphport",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:35.112Z",
+    "updatedAt": "2024-04-02T01:09:35.112Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5acf4284a158f2c2426e",
+    "brandName": "Von - Adams",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 1 : North Santosfurt",
+    "numberOfLocations": 79,
+    "createdAt": "2024-04-02T01:09:35.533Z",
+    "updatedAt": "2024-04-02T01:09:35.533Z",
+    "__v": 0
+  },
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Connelly - Stiedemann",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 2 : New Adellaport",
+    "numberOfLocations": 88,
+    "createdAt": "2024-04-02T01:09:31.412Z",
+    "updatedAt": "2024-04-02T01:09:35.947Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24274",
+    "brandName": "Klocko, Witting and Kassulke",
+    "yearFounded": 2024,
+    "headquarters": "Testcase 3 : Bristol",
+    "numberOfLocations": 59,
+    "createdAt": "2024-04-02T01:09:36.191Z",
+    "updatedAt": "2024-04-02T01:09:36.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24278",
+    "brandName": "Default Brand Name",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 4 : Port Hailey",
+    "numberOfLocations": 48,
+    "createdAt": "2024-04-02T01:09:36.381Z",
+    "updatedAt": "2024-04-02T01:09:36.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c2427c",
+    "brandName": "First Element of Brandname Array",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 5 : Port Elsiestad",
+    "numberOfLocations": 53,
+    "createdAt": "2024-04-02T01:09:36.593Z",
+    "updatedAt": "2024-04-02T01:09:36.593Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24280",
+    "brandName": "Schiller Group",
+    "yearFounded": 1600,
+    "headquarters": "Testcase 6 : Davonteton",
+    "numberOfLocations": 81,
+    "createdAt": "2024-04-02T01:09:36.779Z",
+    "updatedAt": "2024-04-02T01:09:36.779Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24284",
+    "brandName": "Hartmann and Sons",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 7 : North Brandt",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:36.985Z",
+    "updatedAt": "2024-04-02T01:09:36.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad14284a158f2c24288",
+    "brandName": "Raynor - Durgan",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 8 : Fresno",
+    "numberOfLocations": 48,
+    "createdAt": "2024-04-02T01:09:37.203Z",
+    "updatedAt": "2024-04-02T01:09:37.203Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad14284a158f2c2428c",
+    "brandName": "Pollich - Tremblay",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 9 : Veronicaside",
+    "numberOfLocations": 86,
+    "createdAt": "2024-04-02T01:09:37.429Z",
+    "updatedAt": "2024-04-02T01:09:37.429Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad14284a158f2c24290",
+    "brandName": "Dickinson Group",
+    "yearFounded": 1600,
+    "headquarters": "Testcase 10 : North Otho",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:37.637Z",
+    "updatedAt": "2024-04-02T01:09:37.637Z",
+    "__v": 0
+  }
+]

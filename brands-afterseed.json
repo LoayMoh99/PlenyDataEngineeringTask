@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "66069ff93007b006635c0245",
+    "brandName": "Connelly - Stiedemann",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 2 : New Adellaport",
+    "numberOfLocations": 88,
+    "createdAt": "2024-04-02T01:09:31.412Z",
+    "updatedAt": "2024-04-02T01:09:35.947Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5acf4284a158f2c2426e",
+    "brandName": "Von - Adams",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 1 : North Santosfurt",
+    "numberOfLocations": 79,
+    "createdAt": "2024-04-02T01:09:35.533Z",
+    "updatedAt": "2024-04-02T01:09:35.533Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24274",
+    "brandName": "Klocko, Witting and Kassulke",
+    "yearFounded": 2024,
+    "headquarters": "Testcase 3 : Bristol",
+    "numberOfLocations": 59,
+    "createdAt": "2024-04-02T01:09:36.191Z",
+    "updatedAt": "2024-04-02T01:09:36.191Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24278",
+    "brandName": "Default Brand Name",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 4 : Port Hailey",
+    "numberOfLocations": 48,
+    "createdAt": "2024-04-02T01:09:36.381Z",
+    "updatedAt": "2024-04-02T01:09:36.381Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c2427c",
+    "brandName": "First Element of Brandname Array",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 5 : Port Elsiestad",
+    "numberOfLocations": 53,
+    "createdAt": "2024-04-02T01:09:36.593Z",
+    "updatedAt": "2024-04-02T01:09:36.593Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24280",
+    "brandName": "Schiller Group",
+    "yearFounded": 1600,
+    "headquarters": "Testcase 6 : Davonteton",
+    "numberOfLocations": 81,
+    "createdAt": "2024-04-02T01:09:36.779Z",
+    "updatedAt": "2024-04-02T01:09:36.779Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad04284a158f2c24284",
+    "brandName": "Hartmann and Sons",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 7 : North Brandt",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:36.985Z",
+    "updatedAt": "2024-04-02T01:09:36.985Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad14284a158f2c24288",
+    "brandName": "Raynor - Durgan",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 8 : Fresno",
+    "numberOfLocations": 48,
+    "createdAt": "2024-04-02T01:09:37.203Z",
+    "updatedAt": "2024-04-02T01:09:37.203Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad14284a158f2c2428c",
+    "brandName": "Pollich - Tremblay",
+    "yearFounded": 2023,
+    "headquarters": "Testcase 9 : Veronicaside",
+    "numberOfLocations": 86,
+    "createdAt": "2024-04-02T01:09:37.429Z",
+    "updatedAt": "2024-04-02T01:09:37.429Z",
+    "__v": 0
+  },
+  {
+    "_id": "660b5ad14284a158f2c24290",
+    "brandName": "Dickinson Group",
+    "yearFounded": 1600,
+    "headquarters": "Testcase 10 : North Otho",
+    "numberOfLocations": 1,
+    "createdAt": "2024-04-02T01:09:37.637Z",
+    "updatedAt": "2024-04-02T01:09:37.637Z",
+    "__v": 0
+  }
+]
